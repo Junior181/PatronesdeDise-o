@@ -1,0 +1,5 @@
+D:\Junior\Proyectos\Patrones\AdapterPattern\AdapterPattern.Adaptee\bin\Debug\AdapterPattern.Adaptee.dll
+D:\Junior\Proyectos\Patrones\AdapterPattern\AdapterPattern.Adaptee\bin\Debug\AdapterPattern.Adaptee.pdb
+D:\Junior\Proyectos\Patrones\AdapterPattern\AdapterPattern.Adaptee\obj\Debug\AdapterPattern.Adaptee.csprojResolveAssemblyReference.cache
+D:\Junior\Proyectos\Patrones\AdapterPattern\AdapterPattern.Adaptee\obj\Debug\AdapterPattern.Adaptee.dll
+D:\Junior\Proyectos\Patrones\AdapterPattern\AdapterPattern.Adaptee\obj\Debug\AdapterPattern.Adaptee.pdb

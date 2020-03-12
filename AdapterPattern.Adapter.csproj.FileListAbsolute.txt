@@ -1,0 +1,14 @@
+D:\Junior\Proyectos\Patrones\AdapterPattern\AdapterPattern.Adapter\bin\Debug\AdapterPattern.Adapter.dll
+D:\Junior\Proyectos\Patrones\AdapterPattern\AdapterPattern.Adapter\bin\Debug\AdapterPattern.Adapter.pdb
+D:\Junior\Proyectos\Patrones\AdapterPattern\AdapterPattern.Adapter\obj\Debug\AdapterPattern.Adapter.csprojResolveAssemblyReference.cache
+D:\Junior\Proyectos\Patrones\AdapterPattern\AdapterPattern.Adapter\obj\Debug\AdapterPattern.Adapter.dll
+D:\Junior\Proyectos\Patrones\AdapterPattern\AdapterPattern.Adapter\obj\Debug\AdapterPattern.Adapter.pdb
+D:\Junior\Proyectos\ElTavo.AdapterPattern\AdapterPattern\AdapterPattern.Adapter\bin\Debug\AdapterPattern.Adapter.dll
+D:\Junior\Proyectos\ElTavo.AdapterPattern\AdapterPattern\AdapterPattern.Adapter\bin\Debug\AdapterPattern.Adapter.pdb
+D:\Junior\Proyectos\ElTavo.AdapterPattern\AdapterPattern\AdapterPattern.Adapter\bin\Debug\AdapterPattern.Adaptee.dll
+D:\Junior\Proyectos\AdapterPattern\AdapterPattern\AdapterPattern.Adapter\bin\Debug\AdapterPattern.Adaptee.pdb
+D:\Junior\Proyectos\AdapterPattern\AdapterPattern\AdapterPattern.Adapter\obj\Debug\AdapterPattern.Adapter.csprojResolveAssemblyReference.cache
+D:\Junior\Proyectos\AdapterPattern\AdapterPattern\AdapterPattern.Adapter\obj\Debug\AdapterPattern.Adapter.dll
+D:\Junior\Proyectos\AdapterPattern\AdapterPattern\AdapterPattern.Adapter\obj\Debug\AdapterPattern.Adapter.pdb
+D:\Junior\Proyectos\AdapterPattern\AdapterPattern\AdapterPattern.Adapter\bin\Debug\AdapterPattern.ContratoCliente.dll
+D:\Junior\Proyectos\AdapterPattern\AdapterPattern\AdapterPattern.Adapter\bin\Debug\AdapterPattern.ContratoCliente.pdb
