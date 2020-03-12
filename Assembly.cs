@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FacadePattern.Dominio")]
+[assembly: AssemblyTitle("FacadePattern.Beneficios")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FacadePattern.Dominio")]
+[assembly: AssemblyProduct("FacadePattern.Beneficios")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("fc029dff-b133-45dd-a8c2-a5e4d54f1433")]
+[assembly: Guid("e4158091-92ef-40d6-8014-f4d6184ceaa2")]
 
 // Version information for an assembly consists of the following four values:
 //

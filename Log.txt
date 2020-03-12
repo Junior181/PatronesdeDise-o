@@ -1,0 +1,42 @@
+Log Entry : 3:24:31 PM Wensday, Marzo 11, 2020
+  :
+  :La cadena de entrada no tiene el formato correcto.
+-------------------------------
+
+Error StackTrace : 
+Log Entry : 3:25:00 PM Wensday, Marzo 11, 2020
+  :
+  :La cadena de entrada no tiene el formato correcto.
+-------------------------------
+
+Error StackTrace : 
+Log Entry : 3:25:15 PM Wensday, Marzo 11, 2020
+  :
+  :La cadena de entrada no tiene el formato correcto.
+-------------------------------
+
+Error StackTrace : 
+Log Entry : 3:26:04 PM Wensday, Marzo 11, 2020
+  :
+  :La cadena de entrada no tiene el formato correcto.
+-------------------------------
+
+Error StackTrace : 
+Log Entry : 3:27:45 PM Wensday, Marzo 11, 2020
+  :
+  :La cadena de entrada no tiene el formato correcto.
+-------------------------------
+
+Error StackTrace : 
+Log Entry : 3:29:00 PM Wensday, Marzo 11, 2020
+  :
+  :La cadena de entrada no tiene el formato correcto.
+-------------------------------
+
+Error StackTrace : 
+Log Entry : 3:30:04 PM Wensday, Marzo 11, 2020
+  :
+  :La cadena de entrada no tiene el formato correcto.
+-------------------------------
+
+Error StackTrace : 

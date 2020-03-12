@@ -1,0 +1,7 @@
+D:\Junior\Proyectos\Patrones\FacadePattern\ElTavo.FacadePattern.Beneficios\bin\Debug\FacadePattern.Beneficios.dll
+D:\Junior\Proyectos\Patrones\FacadePattern\ElTavo.FacadePattern.Beneficios\bin\Debug\FacadePattern.Beneficios.pdb
+D:\Junior\Proyectos\Patrones\FacadePattern\ElTavo.FacadePattern.Beneficios\bin\Debug\FacadePattern.Dominio.dll
+D:\Junior\Proyectos\Patrones\FacadePattern\ElTavo.FacadePattern.Beneficios\bin\Debug\FacadePattern.Dominio.pdb
+D:\Junior\Proyectos\Patrones\FacadePattern\ElTavo.FacadePattern.Beneficios\obj\Debug\FacadePattern.Beneficios.csprojResolveAssemblyReference.cache
+D:\Junior\Proyectos\Patrones\FacadePattern\ElTavo.FacadePattern.Beneficios\obj\Debug\FacadePattern.Beneficios.dll
+D:\Junior\Proyectos\Patrones\FacadePattern\ElTavo.FacadePattern.Beneficios\obj\Debug\FacadePattern.Beneficios.pdb
